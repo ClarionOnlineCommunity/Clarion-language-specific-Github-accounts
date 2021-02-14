@@ -18,7 +18,7 @@ news.softvelocity.com or discuss.softvelocity.com
 use C6 numeric portion serial number for both username and password for Pre C7 users. Contact Softvelocity to get your username and password changed for the news group servers.
 
 
-WWW server: 3rd party addons.
+WWW sites: 3rd party addons.
 If you want adding to this list, signup to Github and post a submission please. 
 
 https://www.capesoft.com/clarion
